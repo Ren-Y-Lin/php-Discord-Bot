@@ -1,0 +1,7 @@
+{
+    "name": "ren/auralice",
+    "description": "AuraliceBot",
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
